@@ -1,0 +1,137 @@
+{
+  "world_sales_share_2015": 0.68,
+  "world_sales_share_2025": 25.0,
+  "world_sales_2015": 520000,
+  "world_sales_2025": 21200000,
+  "world_sales_multiple_2015_2025": 40.8,
+  "world_stock_2025": 76000000,
+  "china_global_share_2015": 40.6,
+  "china_global_share_2025": 62.7,
+  "china_sales_2025": 13300000,
+  "top5_share_2015": 78.9,
+  "top5_countries_2015": [
+    "China",
+    "United States",
+    "Norway",
+    "United Kingdom",
+    "Japan"
+  ],
+  "top5_share_2025": 80.9,
+  "top5_countries_2025": [
+    "China",
+    "United States",
+    "Germany",
+    "United Kingdom",
+    "France"
+  ],
+  "fastest_5_to_50_countries": [
+    {
+      "entity": "Denmark",
+      "tipping_year": 2020,
+      "year_50pct": 2024,
+      "years_5_to_50": 4
+    },
+    {
+      "entity": "Finland",
+      "tipping_year": 2019,
+      "year_50pct": 2023,
+      "years_5_to_50": 4
+    },
+    {
+      "entity": "Iceland",
+      "tipping_year": 2016,
+      "year_50pct": 2020,
+      "years_5_to_50": 4
+    },
+    {
+      "entity": "Sweden",
+      "tipping_year": 2017,
+      "year_50pct": 2022,
+      "years_5_to_50": 5
+    },
+    {
+      "entity": "China",
+      "tipping_year": 2019,
+      "year_50pct": 2025,
+      "years_5_to_50": 6
+    }
+  ],
+  "n_countries_reached_mainstream": 7,
+  "n_countries_tipped": 27,
+  "n_countries_total": 60,
+  "powerhouse_median_share_2025": 11.0,
+  "non_powerhouse_median_share_2025": 34.0,
+  "median_growth_by_tier": {
+    "Early (1-5%)": 71.3,
+    "Growth (5-20%)": 53.7,
+    "Mainstream (20-50%)": 22.5,
+    "Mature (>50%)": 20.4,
+    "Nascent (<1%)": 70.5
+  },
+  "biggest_climbers": [
+    {
+      "entity": "Turkey",
+      "rank_2015": 27.0,
+      "rank_2025": 6.0,
+      "climb": 21.0
+    },
+    {
+      "entity": "Thailand",
+      "rank_2015": 38.0,
+      "rank_2025": 18.0,
+      "climb": 20.0
+    },
+    {
+      "entity": "Brazil",
+      "rank_2015": 32.0,
+      "rank_2025": 13.0,
+      "climb": 19.0
+    },
+    {
+      "entity": "Israel",
+      "rank_2015": 34.0,
+      "rank_2025": 23.0,
+      "climb": 11.0
+    },
+    {
+      "entity": "Spain",
+      "rank_2015": 17.0,
+      "rank_2025": 7.0,
+      "climb": 10.0
+    }
+  ],
+  "biggest_fallers": [
+    {
+      "entity": "South Africa",
+      "rank_2015": 26.0,
+      "rank_2025": 54.0,
+      "climb": -28.0
+    },
+    {
+      "entity": "Iceland",
+      "rank_2015": 22.0,
+      "rank_2025": 45.0,
+      "climb": -23.0
+    },
+    {
+      "entity": "New Zealand",
+      "rank_2015": 23.0,
+      "rank_2025": 44.0,
+      "climb": -21.0
+    },
+    {
+      "entity": "Japan",
+      "rank_2015": 5.0,
+      "rank_2025": 22.0,
+      "climb": -17.0
+    },
+    {
+      "entity": "Switzerland",
+      "rank_2015": 11.0,
+      "rank_2025": 28.0,
+      "climb": -17.0
+    }
+  ],
+  "norway_2025_share": 97.0,
+  "iceland_2025_share": 62.0
+}
