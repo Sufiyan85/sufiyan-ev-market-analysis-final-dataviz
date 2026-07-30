@@ -77,30 +77,6 @@ jupyter notebook analysis.ipynb
 cd dashboard
 streamlit run app.py
 ```
-
-## Deploying the dashboard (required before submission)
-
-1. Create a **new public GitHub repository** for this project (not your classwork repo) and push
-   this entire folder to it.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub, and click "New app."
-3. Point it at your repo, branch `main`, and main file path `dashboard/app.py`.
-4. Deploy. Streamlit Community Cloud installs `requirements.txt` automatically (the one at the repo
-   root already covers the dashboard's dependencies).
-5. Copy the live URL back into this README, and into the "Live URL:" line in `presentation/deck.js`
-   and/or `presentation/deck_alt.js` (whichever deck you're submitting), then rerun `node deck.js` /
-   `node deck_alt.js` and re-export to PDF if you update it.
-
-## Submission checklist (per the course brief)
-
-- [x] Real-world, rich, varied dataset — done (see above)
-- [x] 10 multi-dimensional analytical questions = 10 explanatory Plotly visuals — done, `analysis.ipynb`
-- [x] Plotly only, CVD-safe, decluttered, annotated — done
-- [x] Interactive Streamlit dashboard, built and ready to deploy — `dashboard/app.py`
-- [ ] Deploy the dashboard to Streamlit Community Cloud and add the live URL above
-- [ ] Push to a **public GitHub repo** (not the classwork one)
-- [ ] Submit the repo link via **1-to-1 message on Microsoft Teams**
-- [ ] **Deadline: Friday, 31 July 2026 — no late submissions**
-
 ## The 10 analytical questions
 
 1. How fast has the world actually gone electric, and who is driving that volume?
